@@ -16,7 +16,7 @@ class ArquivoModel
     {
         $arquivo = fopen($this->_arquivo, "r") or die("Não é possivel ler o arquivo selecionado!");
         while(!feof($arquivo)) {
-            $this->_leitura .= fgets($arquivo) . "\n";
+            $this->_leitura .= fgets($arquivo) . "<br>";
         }
         fclose($arquivo);
     }
