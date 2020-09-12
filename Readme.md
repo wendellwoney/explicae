@@ -15,7 +15,7 @@ http://localhost:[porta]/explicae/[aplicação]
 [aplicação] => escolher entre (leitura_api, leitura_arquivo e loteria)
 ```
 
-##Aplicação loteria
+#Aplicação loteria
 Foi desenvolvida utilizando php 7, html e css. O funcionamento da aplicação se dá da seguinte forma:
 
 1. Escolha a quantidade de apostas que deseja realizar.
@@ -26,7 +26,7 @@ Foi desenvolvida utilizando php 7, html e css. O funcionamento da aplicação se
     
     5.1 - Caso o número sorteado sejá o mesmo do número escolhido pelo sistema a marcação do mesmo será multicolorido tendo como coloração o rosa e o azul.
     
-##Aplicação Leitura de arquivo
+#Aplicação Leitura de arquivo
 Foi desenvolvida utilizando php 7, html e css. O funcionamento da aplicação se dá da seguinte forma:
 1. Escolha um arquivo no formato .txt.
        
@@ -39,5 +39,5 @@ Foi desenvolvida utilizando php 7, html e css. O funcionamento da aplicação se
 3. Será exibido o conteúdo do arquivo em um box abaixo do botão ler arquivo.
 
 
-##Aplicação Leitura da API
+#Aplicação Leitura da API
 Foi desenvolvida utilizando javascript, html e css.
