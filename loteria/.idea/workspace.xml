@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f77096f-4665-444f-a50f-24f5c96ddc1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1hMnkJRNn6tHhO1bJzlrkpjp1VR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f77096f-4665-444f-a50f-24f5c96ddc1a" name="Default Changelist" comment="" />
+      <created>1599829969197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599829969197</updated>
+      <workItem from="1599829970721" duration="9284000" />
+      <workItem from="1599875378285" duration="6776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1599831297294">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="476" y="120" key="#com.intellij.ide.util.MemberChooser/0.40.1366.728@0.40.1366.728" timestamp="1599831297294" />
+    <state x="420" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599831693295">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="420" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.40.1366.728@0.40.1366.728" timestamp="1599831693295" />
+    <state x="504" y="218" key="NewPhpClassDialog" timestamp="1599831731815">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="504" y="218" key="NewPhpClassDialog/0.40.1366.728@0.40.1366.728" timestamp="1599831731815" />
+    <state x="934" y="329" key="NewPhpFileDialog" timestamp="1599831981950">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="934" y="329" key="NewPhpFileDialog/0.40.1366.728@0.40.1366.728" timestamp="1599831981950" />
+    <state x="379" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1599875386520">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="379" y="228" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1599875386520" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599840963408">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1599840963408" />
+  </component>
+</project>
