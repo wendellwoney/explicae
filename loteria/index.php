@@ -17,7 +17,7 @@
         }
         .bg-sorteio-escolha {
             height: 100%;
-            background: linear-gradient(90deg, #ff00ff 50%, #17a2b8 50%);
+            background: linear-gradient(90deg, #ff00ff 50%, #17a2b8 50%); 
         }
     </style>
 </head>
