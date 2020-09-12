@@ -36,7 +36,7 @@ function gerarCartelas() {
     $('#apostas').html("");
     var totalCartelas = $('#numeroApostas').val();
 
-    var urlAposta = "http://localhost/loteria/view/apostar.php?totalNumeros=6&totalApostas=" + totalCartelas;
+    var urlAposta = "view/apostar.php?totalNumeros=6&totalApostas=" + totalCartelas;
 
     $.getJSON(urlAposta).done(function (data) {
         $.each(data, function (i, field) {
@@ -49,7 +49,7 @@ function sortearNumero() {
     $('body').find('.bg-sorteio-escolha').removeClass('bg-sorteio-escolha').addClass('bg-info');
     $('body').find('.bg-sorteio').removeClass('bg-sorteio').addClass('bg-light');
 
-    var urlSorteio = "http://localhost/loteria/view/sortear.php?totalNumeros=6";
+    var urlSorteio = "view/sortear.php?totalNumeros=6";
     var cartelas = $('.cartelas').length;
 
     $.getJSON(urlSorteio).done(function (data) {
